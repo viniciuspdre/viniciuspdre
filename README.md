@@ -5,10 +5,10 @@
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato divertido: Gosto de jogar FPS e estudar exatas.
 
-<div>
+<div style="display: inline-block;">
   <a href="https://github.com/viniciuspdre">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=viniciuspdre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspdre&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciuspdre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspdre&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
