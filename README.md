@@ -1,7 +1,7 @@
 ### Olá, eu sou o Pedro Vinícius! 👋
 
 - 🔭 Hoje estou trabalhando, principalmente, com front-end.
-- 🌱 Estudando Python, Java, HTML e CSS.
+- 🌱 Estudando Python, Java, JavaScript, HTML e CSS.
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato divertido: Gosto de jogar FPS e estudar exatas.
 
@@ -16,6 +16,7 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
   
   ##
