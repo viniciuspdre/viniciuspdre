@@ -2,7 +2,6 @@
 
 - 🔭 Hoje estou trabalhando, principalmente, com front-end.
 - 🌱 Estudando Python, Java, JavaScript, HTML e CSS.
-- 😄 Pronomes: Ele/Dele
 - ⚡ Fato divertido: Gosto de jogar FPS e estudar exatas.
 
 <div style="display: inline-block;">
