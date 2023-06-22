@@ -1,7 +1,7 @@
 ### Olá, eu sou o Pedro Vinícius! 👋
 
 - 🔭 Hoje estou trabalhando, principalmente, com front-end.
-- 🌱 Estudando Python, Java, JavaScript, HTML e CSS.
+- 🌱 Estudando JavaScript, HTML e CSS. Após isso buscarei aprender Node, React e TypeScript.
 - ⚡ Fato divertido: Gosto de jogar FPS e estudar exatas.
 
 <div style="display: inline-block;">
