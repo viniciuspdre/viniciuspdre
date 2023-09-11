@@ -1,6 +1,6 @@
 ### Olá, eu sou o Pedro Vinícius! 👋
 
-Estou fazendo faculdade de Engenharia de Software, esse também é o motivo de meu repositório está um pouco parado.
+Estou fazendo faculdade de Engenharia de Software, esse também é o motivo de meu repositório estar um pouco parado.
 
 <div style="display: inline-block;">
   <a href="https://github.com/viniciuspdre">
