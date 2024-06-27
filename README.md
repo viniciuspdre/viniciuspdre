@@ -2,11 +2,11 @@
 
 Estou fazendo faculdade de Engenharia de Software, esse também é o motivo de meu repositório estar um pouco parado.
 
-<!--<div style="display: inline-block;">
+<div style="display: inline-block;">
   <a href="https://github.com/viniciuspdre">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciuspdre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspdre&layout=compact&langs_count=7&theme=dark"/>
-</div>-->
+</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
