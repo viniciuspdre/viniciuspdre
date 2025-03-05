@@ -1,6 +1,6 @@
 ### Olá, eu sou o Pedro Vinícius! 👋
 
-Estou fazendo faculdade de Engenharia de Software, esse também é o motivo de meu repositório estar um pouco parado.
+Estou fazendo faculdade de Engenharia de Software.
 
 <div style="display: inline-block;">
   <a href="https://github.com/viniciuspdre">
@@ -14,6 +14,9 @@ Estou fazendo faculdade de Engenharia de Software, esse também é o motivo de m
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Pedro-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Pedro-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Pedro-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Pedro-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
   
   ##
