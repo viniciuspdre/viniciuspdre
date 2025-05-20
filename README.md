@@ -24,6 +24,7 @@
 
 ### 🖥️ Frameworks and Providers
 <img align="center" alt="pedro-spring" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+<img align="center" alt="pedro-express" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
 <img align="center" alt="pedro-react" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 <img align="center" alt="pedro-next" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
 <img align="center" alt="pedro-postgresql" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
