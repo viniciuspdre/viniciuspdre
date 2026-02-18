@@ -34,5 +34,10 @@
 ---
 
 ### 📊 Metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciuspdre&show_icons=true&bg_color=000000&title_color=00ffff&text_color=c0c0c0&icon_color=00ffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspdre&layout=compact&langs_count=10&bg_color=000000&title_color=00ffff&text_color=c0c0c0)
+
+<div align="center" style="display: flex; gap: 12px; flex-wrap: wrap; justify-content: center;">
+  <img height="170" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=viniciuspdre&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
+  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=viniciuspdre&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=viniciuspdre&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
